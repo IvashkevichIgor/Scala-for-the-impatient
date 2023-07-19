@@ -8,6 +8,7 @@ object Main {
     Exercise3.test(Array(1, 2, 3, 4, 5, 8, 9))
     Exercise4.test(Array(1, -2, -3, 4, -5, 8, 0, 9, 11, -11, 69))
     Exercise5.test(Array(1, -2, -3, 4, -5, 8, 0, 9, 11, -11, 69))
+    Exercise6.test(Array(1, -2, -3, 4, -5, 8, 0, 9, 11, -11, 69))
 
   }
 }

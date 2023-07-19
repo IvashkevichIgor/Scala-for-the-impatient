@@ -1,5 +1,5 @@
 package ru.ivashkevich
-package chapter_2
+package chapter_02
 
 import java.time.LocalDate
 import scala.annotation.tailrec

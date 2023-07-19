@@ -1,5 +1,5 @@
 package ru.ivashkevich
-package chapter_3
+package chapter_03
 
 import scala.util.Random
 

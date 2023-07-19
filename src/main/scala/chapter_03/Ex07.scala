@@ -1,5 +1,5 @@
 package ru.ivashkevich
-package chapter_3
+package chapter_03
 
 object Ex07 {
   /** Write a code snippet that produces all values from an array with duplicates

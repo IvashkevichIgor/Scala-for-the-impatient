@@ -1,5 +1,5 @@
 package ru.ivashkevich
-package chapter_3
+package chapter_03
 
 object Ex04 {
   /** Given an array of integers, produce a new array that contains all positive

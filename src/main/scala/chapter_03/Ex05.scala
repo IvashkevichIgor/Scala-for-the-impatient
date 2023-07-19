@@ -1,5 +1,5 @@
 package ru.ivashkevich
-package chapter_3
+package chapter_03
 
 object Ex05 {
   /** How do you compute the average of an Array[Double]? */

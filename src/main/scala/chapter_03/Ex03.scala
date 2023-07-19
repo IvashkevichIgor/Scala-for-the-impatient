@@ -1,5 +1,5 @@
 package ru.ivashkevich
-package chapter_3
+package chapter_03
 
 object Ex03 {
   /** Repeat the preceding assignment, but produce a new array with the swapped

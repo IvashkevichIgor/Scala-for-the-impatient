@@ -1,5 +1,5 @@
 package ru.ivashkevich
-package chapter_3
+package chapter_03
 
 object Ex02 {
   /** Write a loop that swaps adjacent elements of an array of integers. For example,

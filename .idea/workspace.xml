@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e30f9c5-45cc-4ea8-9364-cd0055713cb5" name="Changes" comment="add exercise 8 from chapter 3">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter_3/Exercise9.scala" afterDir="false" />
+    <list default="true" id="9e30f9c5-45cc-4ea8-9364-cd0055713cb5" name="Changes" comment="refactor object names">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter_3/Ex09.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/chapter_3/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter_3/Main.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689253234659</updated>
       <workItem from="1689253237664" duration="15602000" />
-      <workItem from="1689572457551" duration="14133000" />
+      <workItem from="1689572457551" duration="17299000" />
     </task>
     <task id="LOCAL-00001" summary="add exercises from chapter 2, 'Scala for the Impatient, ed. 2'">
       <created>1689333201240</created>
@@ -173,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689768495154</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="refactor object names">
+      <created>1689769204012</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689769204012</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +209,8 @@
     <MESSAGE value="add exercise 6 from chapter 3" />
     <MESSAGE value="add exercise 7 from chapter 3" />
     <MESSAGE value="add exercise 8 from chapter 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exercise 8 from chapter 3" />
+    <MESSAGE value="refactor object names" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor object names" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

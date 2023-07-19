@@ -14,5 +14,6 @@ object Main {
     Ex07.test(Array(1, 1, -3, 4, -5, -3, 0, 9, 11, 11, 69))
     Ex08.test(ArrayBuffer(1, -2, -3, 4, -5, 8, 0, 9, 11, -11, 69))
     Ex09.test(ArrayBuffer(1, -2, -3, 4, -5, 8, 0, 9, 11, -11, 69))
+    Ex09.test(ArrayBuffer(-1, -2, -3, -4, -5, -8, -10, -9, -11, -11, -69))
   }
 }

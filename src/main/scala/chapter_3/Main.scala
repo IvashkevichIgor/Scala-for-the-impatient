@@ -6,6 +6,7 @@ object Main {
     Exercise1.test(10)
     Exercise2.test(Array(1, 2, 3, 4, 5, 8, 9))
     Exercise3.test(Array(1, 2, 3, 4, 5, 8, 9))
+    Exercise4.test(Array(1, -2, -3, 4, -5, 8, 0, 9, 11, -11, 69))
 
   }
 

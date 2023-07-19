@@ -3,7 +3,7 @@ package chapter_3
 
 import scala.util.Random
 
-object Exercise1 {
+object Ex01 {
   /** Write a code snippet that sets a to an array of n random integers between 0
    *  (inclusive) and n (exclusive). */
   def func(n: Int): Array[Int] = {
@@ -14,7 +14,7 @@ object Exercise1 {
   def test(n: Int) : Unit = {
     println("Exercise 1:")
     println(s"Getting array of $n random integers between 0 and $n:")
-    println(s"${Exercise1.func(n).mkString("Array(", ", ", ")")}")
+    println(s"${Ex01.func(n).mkString("Array(", ", ", ")")}")
     println("-------------------------------------------------")
   }
 }

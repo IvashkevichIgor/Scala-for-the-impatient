@@ -1,7 +1,7 @@
 package ru.ivashkevich
 package chapter_3
 
-object Exercise4 {
+object Ex04 {
   /** Given an array of integers, produce a new array that contains all positive
    *  values of the original array, in their original order, followed by all values that
    *  are zero or negative, in their original order. */
@@ -12,7 +12,7 @@ object Exercise4 {
   def test(a: Array[Int]): Unit = {
     println("Exercise 4:")
     println(s"Initial array: ${a.mkString("Array(", ", ", ")")}")
-    println(s"Array after using function: ${Exercise4.func(a).mkString("Array(", ", ", ")")}")
+    println(s"Array after using function: ${Ex04.func(a).mkString("Array(", ", ", ")")}")
     println("-------------------------------------------------")
   }
 }

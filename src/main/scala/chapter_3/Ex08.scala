@@ -3,7 +3,7 @@ package chapter_3
 
 import scala.collection.mutable.ArrayBuffer
 
-object Exercise8 {
+object Ex08 {
   /** Suppose you are given an array buffer of integers and want to remove all but
    *  the first negative number. Here is a sequential solution that sets a flag
    *  when the first negative number is called, then removes all elements beyond.
@@ -28,8 +28,8 @@ object Exercise8 {
 
   def test(a: ArrayBuffer[Int]): Unit = {
     println("Exercise 8:")
-    println(s"Initial array: ${a.mkString("Array(", ", ", ")")}")
-    println(s"Array after using function: ${Exercise8.func(a).mkString("Array(", ", ", ")")}")
+    println(s"Initial array buffer: ${a.mkString("ArrayBuffer(", ", ", ")")}")
+    println(s"After using function: ${Ex08.func(a).mkString("ArrayBuffer(", ", ", ")")}")
     println("-------------------------------------------------")
   }
 }

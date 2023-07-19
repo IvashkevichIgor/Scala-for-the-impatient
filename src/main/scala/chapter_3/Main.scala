@@ -16,5 +16,6 @@ object Main {
     Ex09.test(ArrayBuffer(1, -2, -3, 4, -5, 8, 0, 9, 11, -11, 69))
     Ex09.test(ArrayBuffer(-1, -2, -3, -4, -5, -8, -10, -9, -11, -11, -69))
     Ex10.test()
+    Ex11.test()
   }
 }

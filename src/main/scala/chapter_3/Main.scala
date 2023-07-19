@@ -1,6 +1,8 @@
 package ru.ivashkevich
 package chapter_3
 
+import scala.collection.mutable.ArrayBuffer
+
 object Main {
   def main(args: Array[String]): Unit = {
     Exercise1.test(10)
@@ -10,6 +12,6 @@ object Main {
     Exercise5.test(Array(1, -2, -3, 4, -5, 8, 0, 9, 11, -11, 69))
     Exercise6.test(Array(1, -2, -3, 4, -5, 8, 0, 9, 11, -11, 69))
     Exercise7.test(Array(1, 1, -3, 4, -5, -3, 0, 9, 11, 11, 69))
-
+    Exercise8.test(ArrayBuffer(1, -2, -3, 4, -5, 8, 0, 9, 11, -11, 69))
   }
 }

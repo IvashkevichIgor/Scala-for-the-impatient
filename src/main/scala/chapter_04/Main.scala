@@ -10,5 +10,6 @@ object Main {
       Ex05.test(new java.io.File("C:\\Java\\projects\\scala-for-the-impatient\\src\\files\\chapter_04\\ex02.txt"))
       Ex06.test()
       Ex07.test()
+      Ex08.test(Array(11, 69, 420, -54, 18, 23, 32))
     }
 }

@@ -8,5 +8,6 @@ object Main {
       Ex03.test(new java.io.File("C:\\Java\\projects\\scala-for-the-impatient\\src\\files\\chapter_04\\ex02.txt"))
       Ex04.test(new java.io.File("C:\\Java\\projects\\scala-for-the-impatient\\src\\files\\chapter_04\\ex02.txt"))
       Ex05.test(new java.io.File("C:\\Java\\projects\\scala-for-the-impatient\\src\\files\\chapter_04\\ex02.txt"))
+      Ex06.test()
     }
 }

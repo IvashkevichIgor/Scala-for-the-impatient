@@ -11,5 +11,6 @@ object Main {
       Ex06.test()
       Ex07.test()
       Ex08.test(Array(11, 69, 420, -54, 18, 23, 32))
+      Ex09.test(Array(11, 69, 69, 420, -54, 18, 69, 23, 332, 77), 69)
     }
 }

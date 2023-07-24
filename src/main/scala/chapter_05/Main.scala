@@ -11,5 +11,7 @@ object Main {
     Ex05.test(new Ex05.Student("Igor", 123))
     Ex06.test(new Ex06.Person("Igor", -42))
     Ex07.test(new Ex07.Person("Igor Ivashkevich"))
+    Ex08.test(new Ex08.Car("Audi", "Q7", 2022, "K8GR8"))
+    Ex08.test(new Ex08.Car("Audi", "Q7"))
   }
 }

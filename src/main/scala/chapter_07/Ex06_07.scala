@@ -1,12 +1,15 @@
 package ru.ivashkevich
 package chapter_07
 
-import java.util.{HashMap => JavaHashMap}
-import scala.collection.mutable.{HashMap => ScalaHashMap}
-
-object Ex06 extends App {
-  /** Write a program that copies all elements from a Java hash map into a Scala
+object Ex06_07 extends App {
+  /** 6. Write a program that copies all elements from a Java hash map into a Scala
    *  hash map. Use imports to rename both classes. */
+
+  /** 7. In the preceding exercise, move all imports into the innermost scope possible. */
+
+  import java.util.{HashMap => JavaHashMap}
+  import scala.collection.mutable.{HashMap => ScalaHashMap}
+
   test()
 
   def func[K, V](jMap: JavaHashMap[K, V]): ScalaHashMap[K, V] = {

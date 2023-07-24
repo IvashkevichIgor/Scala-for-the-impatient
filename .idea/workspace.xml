@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e30f9c5-45cc-4ea8-9364-cd0055713cb5" name="Changes" comment="add exercise 10 from chapter 5">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter_06/Ex01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter_06/Main.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9e30f9c5-45cc-4ea8-9364-cd0055713cb5" name="Changes" comment="add exercise 1 from chapter 6">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter_06/Ex02.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -366,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690185698707</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="add exercise 1 from chapter 6">
+      <created>1690188307901</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1690188307901</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,7 +389,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add exercise 4 from chapter 3" />
     <MESSAGE value="add exercise 5 from chapter 3" />
     <MESSAGE value="add exercise 6 from chapter 3" />
     <MESSAGE value="add exercise 7 from chapter 3" />
@@ -409,7 +413,8 @@
     <MESSAGE value="add exercise 7 from chapter 5" />
     <MESSAGE value="add exercise 8 from chapter 5" />
     <MESSAGE value="add exercise 10 from chapter 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exercise 10 from chapter 5" />
+    <MESSAGE value="add exercise 1 from chapter 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="add exercise 1 from chapter 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

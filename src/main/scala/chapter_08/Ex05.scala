@@ -10,7 +10,7 @@ object Ex05 extends App {
   test()
 
   class Point(val x: Double, val y: Double){
-
+    override def toString = s"Point(x=$x, y=$y)"
   }
 
   class LabeledPoint(val label: String, x: Double, y: Double) extends Point(x, y){

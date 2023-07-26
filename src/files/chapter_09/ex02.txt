@@ -1,0 +1,3 @@
+Scooby	dooby	doo
+Tab	tab	tab
+Replace	with	spaces

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e30f9c5-45cc-4ea8-9364-cd0055713cb5" name="Changes" comment="add exercise 2 from chapter 10">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter_10/Ex04.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9e30f9c5-45cc-4ea8-9364-cd0055713cb5" name="Changes" comment="add exercise 4 from chapter 10">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter_10/Ex05.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,14 +159,7 @@
       <workItem from="1689572457551" duration="18867000" />
       <workItem from="1690105635476" duration="82000" />
       <workItem from="1690105727485" duration="12466000" />
-      <workItem from="1690984656530" duration="7964000" />
-    </task>
-    <task id="LOCAL-00009" summary="add exercise 8 from chapter 3">
-      <created>1689768495154</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1689768495154</updated>
+      <workItem from="1690984656530" duration="8399000" />
     </task>
     <task id="LOCAL-00010" summary="refactor object names">
       <created>1689769204012</created>
@@ -505,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691044710724</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="add exercise 4 from chapter 10">
+      <created>1691072095949</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1691072095949</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -523,7 +522,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add exercise 2 from chapter 6" />
     <MESSAGE value="add exercise 3 from chapter 6" />
     <MESSAGE value="add exercise 4 from chapter 6" />
     <MESSAGE value="add exercise 5 from chapter 6" />
@@ -548,7 +546,8 @@
     <MESSAGE value="add exercise 10 from chapter 9" />
     <MESSAGE value="add exercise 1 from chapter 10" />
     <MESSAGE value="add exercise 2 from chapter 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exercise 2 from chapter 10" />
+    <MESSAGE value="add exercise 4 from chapter 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="add exercise 4 from chapter 10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

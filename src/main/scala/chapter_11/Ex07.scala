@@ -20,6 +20,7 @@ object Ex07 extends App {
     override def toString: String = s"BitSequence(${bits.toBinaryString})"
   }
 
+  println("Exercise 7:")
   val seq = new BitSequence(33)
   println(s"Decimal 33 is $seq")
   println(s"Fifth bit is ${seq(5)}")
@@ -28,4 +29,5 @@ object Ex07 extends App {
   seq.update(3)
   println(s"Now third bit is ${seq(3)}")
   println(s"$seq")
+  println("-------------------------------------------------")
 }

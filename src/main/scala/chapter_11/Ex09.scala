@@ -18,7 +18,7 @@ object Ex09 extends App{
   }
 
   println("Exercise 9:")
-  val tuple = PathComponents.unapply(Paths.get("/home/cay/readme.txt")).get
+  val tuple = PathComponents.unapply(Paths.get("\\home\\cay\\readme.txt")).get
   println(s"Full path: \\home\\cay\\readme.txt")
   println(s"Directory: ${tuple._1}")
   println(s"File name: ${tuple._2}")

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e30f9c5-45cc-4ea8-9364-cd0055713cb5" name="Changes" comment="add exercise 1 from chapter 12">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter_12/Ex02.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9e30f9c5-45cc-4ea8-9364-cd0055713cb5" name="Changes" comment="add exercise 2 from chapter 12">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter_12/Ex03.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex02">
+  <component name="RunManager" selected="Application.Ex03">
     <configuration name="Ex01" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ru.ivashkevich.chapter_12.Ex01" />
       <module name="scala_for_the_impatient" />
@@ -99,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex07" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ru.ivashkevich.chapter_11.Ex07" />
+    <configuration name="Ex03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ru.ivashkevich.chapter_12.Ex03" />
       <module name="scala_for_the_impatient" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.ivashkevich.chapter_11.*" />
+          <option name="PATTERN" value="ru.ivashkevich.chapter_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex03" />
         <item itemvalue="Application.Ex02" />
         <item itemvalue="Application.Ex01" />
         <item itemvalue="Application.Ex10" />
         <item itemvalue="Application.Ex09" />
-        <item itemvalue="Application.Ex07" />
       </list>
     </recent_temporary>
   </component>
@@ -166,14 +165,7 @@
       <workItem from="1691917357022" duration="6785000" />
       <workItem from="1693287448632" duration="2540000" />
       <workItem from="1694093869120" duration="1436000" />
-      <workItem from="1694411188987" duration="3475000" />
-    </task>
-    <task id="LOCAL-00020" summary="add exercise 7 from chapter 4">
-      <created>1690119488310</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1690119488310</updated>
+      <workItem from="1694411188987" duration="4148000" />
     </task>
     <task id="LOCAL-00021" summary="add exercise 8 from chapter 4">
       <created>1690119943005</created>
@@ -511,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694421593671</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="add exercise 2 from chapter 12">
+      <created>1694422496721</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1694422496721</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add exercise 9 from chapter 7" />
     <MESSAGE value="add exercise 1 from chapter 8" />
     <MESSAGE value="add exercise 2 from chapter 8" />
     <MESSAGE value="add exercise 4 from chapter 8" />
@@ -554,7 +552,8 @@
     <MESSAGE value="fix exercise 9 from chapter 11&#10;Change return type of unapply method to Option" />
     <MESSAGE value="add exercise 10 from chapter 11" />
     <MESSAGE value="add exercise 1 from chapter 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exercise 1 from chapter 12" />
+    <MESSAGE value="add exercise 2 from chapter 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="add exercise 2 from chapter 12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

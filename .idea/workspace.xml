@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e30f9c5-45cc-4ea8-9364-cd0055713cb5" name="Changes" comment="add exercise 3 from chapter 12">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter_12/Ex04.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9e30f9c5-45cc-4ea8-9364-cd0055713cb5" name="Changes" comment="add exercise 4 from chapter 12">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter_12/Ex05.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex04">
+  <component name="RunManager" selected="Application.Ex05">
     <configuration name="Ex01" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ru.ivashkevich.chapter_12.Ex01" />
       <module name="scala_for_the_impatient" />
@@ -125,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex10" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ru.ivashkevich.chapter_11.Ex10" />
+    <configuration name="Ex05" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ru.ivashkevich.chapter_12.Ex05" />
       <module name="scala_for_the_impatient" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.ivashkevich.chapter_11.*" />
+          <option name="PATTERN" value="ru.ivashkevich.chapter_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex05" />
         <item itemvalue="Application.Ex04" />
         <item itemvalue="Application.Ex03" />
         <item itemvalue="Application.Ex02" />
         <item itemvalue="Application.Ex01" />
-        <item itemvalue="Application.Ex10" />
       </list>
     </recent_temporary>
   </component>
@@ -166,21 +165,7 @@
       <workItem from="1691917357022" duration="6785000" />
       <workItem from="1693287448632" duration="2540000" />
       <workItem from="1694093869120" duration="1436000" />
-      <workItem from="1694411188987" duration="4841000" />
-    </task>
-    <task id="LOCAL-00022" summary="add exercise 1 from chapter 5">
-      <created>1690177728409</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1690177728409</updated>
-    </task>
-    <task id="LOCAL-00023" summary="add exercise 2 from chapter 5">
-      <created>1690179136100</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1690179136100</updated>
+      <workItem from="1694411188987" duration="5287000" />
     </task>
     <task id="LOCAL-00024" summary="add exercise 3 from chapter 5">
       <created>1690180581516</created>
@@ -511,7 +496,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694423175045</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="add exercise 3 from chapter 12">
+      <created>1694423926725</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1694423926725</updated>
+    </task>
+    <task id="LOCAL-00072" summary="add exercise 4 from chapter 12">
+      <created>1694424026008</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1694424026008</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add exercise 2 from chapter 8" />
     <MESSAGE value="add exercise 4 from chapter 8" />
     <MESSAGE value="add exercise 5 from chapter 8" />
     <MESSAGE value="add exercise 6 from chapter 8" />
@@ -554,7 +552,8 @@
     <MESSAGE value="add exercise 1 from chapter 12" />
     <MESSAGE value="add exercise 2 from chapter 12" />
     <MESSAGE value="add exercise 3 from chapter 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exercise 3 from chapter 12" />
+    <MESSAGE value="add exercise 4 from chapter 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="add exercise 4 from chapter 12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
